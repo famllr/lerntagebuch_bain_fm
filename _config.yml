@@ -5,6 +5,7 @@ description: Lerntagebuch Modul Bibliotheks- und Archivinformatik FS2024
 
 # social links
 github_username:  famllr # DO NOT include the @ character, or else the build will fail!
+instagram_username: f.a.b.m.l.r
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
